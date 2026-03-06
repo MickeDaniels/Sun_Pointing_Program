@@ -34,7 +34,7 @@ static int panelHandle;
 
 
 
-// function prototypes
+// function prototypes....
 void SystemInit(void);  
 int  udpOpen(int);
 int  udpWrite(int, char*, char*);  
@@ -207,3 +207,4 @@ int udpWrite(int port, char *interface, char *posnet_str)
 	
 
 	
+
